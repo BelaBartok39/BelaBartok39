@@ -2,17 +2,10 @@
 - 🔭 I’m currently building a homemade 8-bit computer.
 - 🌱 I’m currently learning cybersecurity and have a deep interest in low-level programming.
 - 😄 "bAbYnIcKy" is an alias of mine.
-<!--
-**BelaBartok39/BelaBartok39** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<details>
+<summary><b><u> Tools I've Built 🔒</u></b></summary>
 
-- 🔭 I’m currently working on a homemade 8-bit computer.
-- 🌱 I’m currently learning cybersecurity.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here are some tools i've built:
+- 🔎  [fancy_directory_sort](https://github.com/BelaBartok39/Fancy_Dir): Organize a directory instantly with two different levels of organization.
+</details>
