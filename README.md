@@ -1,6 +1,6 @@
 ## Hi there 👋
 - 🔭 I’m currently building a homemade 8-bit computer.
-- 🌱 I’m currently working on my masters in cybersecurity and have a deep interest in low-level programming.
+- 🌱 I’m currently working on my master's in cybersecurity and have a deep interest in low-level programming.
 - 😄 "bAbYnIcKy" is an alias of mine.
 
 <details>
