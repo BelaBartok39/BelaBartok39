@@ -7,5 +7,5 @@
 <summary><b><u> Tools I've Built 🔒</u></b></summary>
 
 Here are some tools i've built:
-- 🔎  [fancy_directory_sort](https://github.com/BelaBartok39/Fancy_D): Organize a directory instantly with custom extension management. Linuz/UNIX only right now.
+- 🔎  [fancy_directory_sort](https://github.com/BelaBartok39/Fancy_D): Organize a directory instantly with custom extension management. Linux/UNIX only right now.
 </details>
