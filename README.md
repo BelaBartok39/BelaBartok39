@@ -7,5 +7,5 @@
 <summary><b><u> Tools I've Built 🔒</u></b></summary>
 
 Here are some tools i've built:
-- 🔎  [fancy_directory_sort](https://github.com/BelaBartok39/Fancy_Dir): Organize a directory instantly with two different levels of organization.
+- 🔎  [fancy_directory_sort](https://github.com/BelaBartok39/Fancy_CDir): Organize a directory instantly with two different levels of organization.
 </details>
