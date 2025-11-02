@@ -1,5 +1,6 @@
 ## Howdy! 👋
 - 🔭 I’m currently building a homemade 8-bit CPU with TTL chips.
+- 📻 Always researching RF security.
 - 🌱 I’m working towards my master's in mathematics/cybersecurity. 
 - 😄 Deep interest in low-level programming.
 
